@@ -1,0 +1,30 @@
+{
+  "name": "generator-vscode-theme-voodoo",
+  "version": "0.0.1",
+  "description": "Generates vscoode themes from CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vscode",
+    "yeoman-generator",
+    "css"
+  ],
+  "author": "Dan Cheail <dan@dnch.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dnch/generator-vscode-theme-voodoo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dnch/generator-vscode-theme-voodoo/issues"
+  },
+  "homepage": "https://github.com/dnch/generator-vscode-theme-voodoo#readme"
+}
